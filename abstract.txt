@@ -1,0 +1,2 @@
+This project will take in various features about a house or property such as location, number of bedrooms and bathrooms, etc. It will then use this information to determine and estimate of what the 
+property should be wourth based on a data set of other properties, their freatures and prices.
